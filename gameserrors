@@ -1,0 +1,814 @@
+
+	<!DOCTYPE html>
+<!--[if IE 8]>
+	<html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9]>
+	<html class="ie ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>GamesErrors - Solutions for Your Gaming Issues</title><link rel="preload" href="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" as="image" /><link rel="preload" href="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" as="image" /><link rel="preload" href="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" as="image" /><style id="perfmatters-used-css"></style>
+<meta name="description" content="GamesErrors comes to your help with solutions &amp; workarounds for your gaming issues. Stop getting those annoying errors &amp; fix your game today!" />
+<link rel="canonical" href="https://gameserrors.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="GamesErrors - Solutions for Your Gaming Issues" />
+<meta property="og:description" content="GamesErrors comes to your help with solutions &amp; workarounds for your gaming issues. Stop getting those annoying errors &amp; fix your game today!" />
+<meta property="og:url" content="https://gameserrors.com/" />
+<meta property="og:site_name" content="Games Errors" />
+<meta property="article:publisher" content="https://www.facebook.com/pages/GamesErrorscom/1520575328186420" />
+<meta property="article:modified_time" content="2023-06-25T16:23:08+00:00" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://gameserrors.com/","url":"https://gameserrors.com/","name":"GamesErrors - Solutions for Your Gaming Issues","isPartOf":{"@id":"https://gameserrors.com/#website"},"about":{"@id":"https://gameserrors.com/#organization"},"datePublished":"2016-12-28T08:45:52+00:00","dateModified":"2023-06-25T16:23:08+00:00","description":"GamesErrors comes to your help with solutions & workarounds for your gaming issues. Stop getting those annoying errors & fix your game today!","breadcrumb":{"@id":"https://gameserrors.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://gameserrors.com/"]}]},{"@type":"BreadcrumbList","@id":"https://gameserrors.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://gameserrors.com/#website","url":"https://gameserrors.com/","name":"Games Errors","description":"Fixes, Tutorials and Guides for Games","publisher":{"@id":"https://gameserrors.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://gameserrors.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://gameserrors.com/#organization","name":"Games Errors","url":"https://gameserrors.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://gameserrors.com/#/schema/logo/image/","url":"https://gameserrors.com/wp-content/uploads/2016/12/logogreen-1.png","contentUrl":"https://gameserrors.com/wp-content/uploads/2016/12/logogreen-1.png","width":572,"height":56,"caption":"Games Errors"},"image":{"@id":"https://gameserrors.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/pages/GamesErrorscom/1520575328186420","https://twitter.com/gameserrors","https://www.youtube.com/channel/UCSqRTYdEs6HD-lVWKvbHYMA?spfreload=10"]}]}</script>
+<meta name="msvalidate.01" content="1ED5A5B38652C936B9C1F9076DF19DC0" />
+<meta name="google-site-verification" content="U2TEDjim3REnQpCuMNm6QEHKM1EHWKPAusbDX5kDjyk" />
+<meta name="yandex-verification" content="5589b33082c01c3e" />
+
+<link rel="dns-prefetch" href="//gameserrors.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="alternate" type="application/rss+xml" title="Games Errors &raquo; Feed" href="https://gameserrors.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Games Errors &raquo; Comments Feed" href="https://gameserrors.com/comments/feed/" />
+<script type="pmdelayedscript" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gameserrors.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="block-editor-styles-css" href="https://gameserrors.com/wp-content/themes/publisher/css/block-editor-styles.css?ver=6.2" type="text/css" media="all" />
+<link rel="stylesheet" id="wp-block-library-css" href="https://gameserrors.com/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=6.2" type="text/css" media="all" />
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://gameserrors.com/wordpress/wp-includes/css/classic-themes.min.css?ver=6.2" type="text/css" media="all" />
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://gameserrors.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7" type="text/css" media="all" />
+<link rel="stylesheet" id="js_composer_front-css" href="https://gameserrors.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0" type="text/css" media="all" />
+<link rel="stylesheet" id="better-framework-main-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CRoboto:400,500,400italic%7CABeeZee:400&display=swap" type="text/css" media="all" />
+<script type="pmdelayedscript" src="https://gameserrors.com/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://gameserrors.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.15.0' id='bf-html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://gameserrors.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.15.0' id='bf-respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://gameserrors.com/wp-json/" /><link rel="alternate" type="application/json" href="https://gameserrors.com/wp-json/wp/v2/pages/1885" /><link rel="shortlink" href="https://gameserrors.com/" />
+<link rel="alternate" type="application/json+oembed" href="https://gameserrors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgameserrors.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://gameserrors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgameserrors.com%2F&#038;format=xml" />
+<script type="pmdelayedscript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.pubnation.com/tags/fe905740-1a45-4d67-84b9-acd422d1f8a8.js" data-perfmatters-type="text/javascript" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<link rel="shortcut icon" href="https://gameserrors.com/wp-content/uploads/2017/01/fav.png"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png"
+    },
+    "url": "https://gameserrors.com/",
+    "name": "Games Errors",
+    "description": "Fixes, Tutorials and Guides for Games"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "name": "Games Errors",
+    "alternateName": "Fixes, Tutorials and Guides for Games",
+    "url": "https://gameserrors.com/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://gameserrors.com/search/{search_term}",
+        "query-input": "required name=search_term"
+    }
+}</script>
+<link rel="stylesheet" id="bf-minifed-css-1" href="https://gameserrors.com/wp-content/bs-booster-cache/23ee918d63914c23cc2fdbd9af257c88.css" type="text/css" media="all" />
+<link rel="stylesheet" id="107.11.0-1689591706" href="https://gameserrors.com/wp-content/bs-booster-cache/b3665c7589ba3308a9fa24ea67853f6c.css" type="text/css" media="all" />
+
+<style>
+.author-title.heading-typo .title-counts {display:none;}
+
+.grecaptcha-badge { visibility: hidden; }
+
+
+
+</style>
+
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style><noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript><style>.perfmatters-lazy-youtube{position:relative;width:100%;max-width:100%;height:0;padding-bottom:56.23%;overflow:hidden}.perfmatters-lazy-youtube img{position:absolute;top:0;right:0;bottom:0;left:0;display:block;width:100%;max-width:100%;height:auto;margin:auto;border:none;cursor:pointer;transition:.5s all;-webkit-transition:.5s all;-moz-transition:.5s all}.perfmatters-lazy-youtube img:hover{-webkit-filter:brightness(75%)}.perfmatters-lazy-youtube .play{position:absolute;top:50%;left:50%;right:auto;width:68px;height:48px;margin-left:-34px;margin-top:-24px;background:url(https://gameserrors.com/wp-content/plugins/perfmatters/img/youtube.svg) no-repeat;background-position:center;background-size:cover;pointer-events:none}.perfmatters-lazy-youtube iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:99}.perfmatters-lazy:not(picture),.perfmatters-lazy>img{opacity:0}.perfmatters-lazy.pmloaded,.perfmatters-lazy>img.pmloaded,.perfmatters-lazy[data-ll-status=entered],.perfmatters-lazy.pmloaded>img{opacity:1;transition:opacity 500ms}body .perfmatters-lazy-css-bg:not([data-ll-status=entered]),body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *,body .perfmatters-lazy-css-bg:not([data-ll-status=entered])::before{background-image:none!important;will-change:transform;transition:opacity 0.025s ease-in,transform 0.025s ease-in!important;}</style> </head>
+<body class="home page-template-default page page-id-1885 bs-theme bs-publisher bs-publisher-clean-tech active-light-box ltr close-rh page-layout-1-col page-layout-no-sidebar full-width active-sticky-sidebar main-menu-sticky-smart main-menu-full-width active-ajax-search  wpb-js-composer js-comp-ver-6.7.0 vc_responsive bs-ll-d" dir="ltr">
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627" /><fefuncg type="table" tablevalues="0 0.49803921568627" /><fefuncb type="table" tablevalues="0 0.49803921568627" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 0.27843137254902" /><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0" /><fefuncg type="table" tablevalues="0 0.64705882352941" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1" /><fefuncg type="table" tablevalues="0 0.94901960784314" /><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.44705882352941 0.4" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1" /><fefuncg type="table" tablevalues="0 0.66274509803922" /><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725" /><fefunca type="table" tablevalues="1 1" /></feComponentTransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg> <div class="main-wrap content-main-wrap">
+<header id="header" class="site-header header-style-6 full-width" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<div class="content-wrap">
+<div class="container">
+<div class="header-inner clearfix">
+<div id="site-branding" class="site-branding">
+<h1 id="site-title" class="logo h1 img-logo">
+<a href="https://gameserrors.com/" itemprop="url" rel="home">
+<img data-perfmatters-preload id="site-logo" src="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" alt="Games Errors" />
+<span class="site-title">Games Errors - Fixes, Tutorials and Guides for Games</span>
+</a>
+</h1>
+</div>
+<nav id="menu-main" class="menu main-menu-container  show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<div class="menu-action-buttons width-1">
+<div class="search-container close">
+<span class="search-handler"><i class="fa fa-search"></i></span>
+<div class="search-box clearfix">
+<form role="search" method="get" class="search-form clearfix" action="https://gameserrors.com">
+<input type="search" class="search-field" placeholder="Search..." value name="s" title="Search for:" autocomplete="off">
+<input type="submit" class="search-submit" value="Search">
+</form>
+</div>
+</div>
+</div>
+<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+<li id="menu-item-7033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-7033"><a href="https://gameserrors.com/category/games-fixes/">Fixes</a></li>
+<li id="menu-item-2376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-9 better-anim-fade menu-item-2376"><a href="https://gameserrors.com/category/games-guides/">Guides</a></li>
+<li id="menu-item-2377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-7 better-anim-fade menu-item-2377"><a href="https://gameserrors.com/category/gaming-news/">Gaming News</a></li>
+<li id="menu-item-27547" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-27547"><a href="https://gameserrors.com/popular-games-troubleshooting/">Games A-Z</a></li>
+<li id="menu-item-3038" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-3038"><a href="https://gameserrors.com/about/">About Us</a></li>
+<li id="menu-item-2379" class="menu-item menu-item-type-custom menu-item-object-custom hidden-lg hidden-md hidden-sm hidden-xs better-anim-fade menu-item-2379"><a href="https://gameserrors.com/support24/">Gaming Support</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class="rh-header clearfix light deferred-block-exclude">
+<div class="rh-container clearfix">
+<div class="menu-container close">
+<span class="menu-handler"><span class="lines"></span></span>
+</div>
+<div class="logo-container rh-img-logo">
+<a href="https://gameserrors.com/" itemprop="url" rel="home">
+<img data-perfmatters-preload src="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" alt="Games Errors" /> </a>
+</div>
+</div>
+</div>
+<main id="content" class="content-container">
+<div class="layout-1-col layout-no-sidebar">
+<div class="content-column">
+<div class="single-container bs-vc-content">
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12"><div class="bs-vc-wrapper wpb_wrapper"><div class=" bs-listing bs-listing-modern-grid-listing-7 bs-listing-single-tab"> <div class="listing listing-modern-grid listing-modern-grid-7 clearfix slider-overlay-colored-anim bsw-12">
+<div class="mg-row mg-row-1 clearfix">
+<div class="mg-col mg-col-1">
+<article class="post-37901 type-post format-standard has-post-thumbnail  listing-item-1 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-8">
+<div class="item-content">
+<a title="League of Legends Critical Update Required [SOLVED]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682.png" class="img-cont perfmatters-lazy" href="https://gameserrors.com/league-of-legends-critical-update-required/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682-750x430.png"></a>
+<div class="content-container">
+<h2 class="title"> <a href="https://gameserrors.com/league-of-legends-critical-update-required/" class="post-url post-title">
+League of Legends Critical Update Required [SOLVED] </a>
+</h2> </div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-2">
+<article class="post-37799 type-post format-standard has-post-thumbnail  listing-item-2 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-9">
+<div class="item-content">
+<a alt="best Dave the Diver Tips for beginners" title="Dave the Diver Tips for Beginners: Guide for the New Gamers" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured.jpg" class="img-cont perfmatters-lazy" href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured-750x430.jpg"></a>
+<div class="content-container">
+<h2 class="title"> <a href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" class="post-url post-title">
+Dave the Diver Tips for Beginners: Guide for the New Gamers </a>
+</h2> </div>
+</div>
+</article >
+</div>
+</div>
+<div class="mg-row mg-row-2 clearfix">
+<div class="mg-col mg-col-1">
+<article class="post-37719 type-post format-standard has-post-thumbnail  listing-item-3 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-9">
+<div class="item-content">
+<a alt="Dave The Diver Tuna Featured Image" title="How To Catch Tuna in Dave The Diver [Easy Guide]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/Dave-The-Diver-Tuna-Featured-Image.jpg" class="img-cont perfmatters-lazy" href="https://gameserrors.com/how-to-catch-tuna-in-dave-the-diver/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/Dave-The-Diver-Tuna-Featured-Image-357x210.jpg"></a>
+<div class="content-container">
+<h2 class="title"> <a href="https://gameserrors.com/how-to-catch-tuna-in-dave-the-diver/" class="post-url post-title">
+How To Catch Tuna in Dave The Diver [Easy Guide] </a>
+</h2> </div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-2">
+<article class="post-40015 type-post format-standard has-post-thumbnail  listing-item-4 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-9">
+<div class="item-content">
+<a title="How to Perform a Clean Boot to Fix Various Game Problems" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/best-steam-deck-games-min-750x430.png" class="img-cont perfmatters-lazy" href="https://gameserrors.com/how-to-perform-a-clean-boot/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/best-steam-deck-games-min-357x210.png"></a>
+<div class="content-container">
+<h2 class="title"> <a href="https://gameserrors.com/how-to-perform-a-clean-boot/" class="post-url post-title">
+How to Perform a Clean Boot to Fix Various Game Problems </a>
+</h2> </div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-3">
+<article class="post-39774 type-post format-standard has-post-thumbnail  listing-item-5 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-8">
+<div class="item-content">
+<a alt="rainbow six siege error code 10-0x00000000" title="Rainbow Six Siege Error Code 10-0x00000000 [Solved]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/rainbow-six-siege-error-code-10-0x00000000-1-750x430.png" class="img-cont perfmatters-lazy" href="https://gameserrors.com/rainbow-six-siege-error-code-10-0x00000000/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/rainbow-six-siege-error-code-10-0x00000000-1-357x210.png"></a>
+<div class="content-container">
+<h2 class="title"> <a href="https://gameserrors.com/rainbow-six-siege-error-code-10-0x00000000/" class="post-url post-title">
+Rainbow Six Siege Error Code 10-0x00000000 [Solved] </a>
+</h2> </div>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_shadow vc_sep_border_width_7 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey"><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div><div class="vc_empty_space" style="height: 28px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-4"><div class="bs-vc-wrapper wpb_wrapper"><div class="vc_empty_space" style="height: 11px"><span class="vc_empty_space_inner"></span></div><div class=" bs-listing bs-listing-listing-mix-3-3 bs-listing-single-tab"> <h3 class="section-heading sh-t2 sh-s1 main-term-8">
+<a href="https://gameserrors.com/category/games-fixes/" class="main-link">
+<span class="h-text main-term-8">
+Fixes </span>
+</a>
+</h3>
+<div class="listing listing-mix-3-3 clearfix l-1-col">
+<div class="item-inner">
+<div class="row-1">
+<div class="listing listing-grid-1 clearfix columns-1">
+<article class="post-37901 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-8">
+<div class="item-inner">
+<div class="featured clearfix">
+<a title="League of Legends Critical Update Required [SOLVED]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682-750x430.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/league-of-legends-critical-update-required/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682-357x210.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/league-of-legends-critical-update-required/" class="post-title post-url">
+League of Legends Critical Update Required [SOLVED] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-18T10:21:51+03:00">Jul 18, 2023</time></span>
+</div>
+<div class="post-summary">
+League of Legends is one of the biggest multiplayer battle arena games for Windows. It's a great game, but it&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+<div class="row-2">
+<div class="listing listing-text listing-text-2 clearfix columns-2">
+<article class="post-39774 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-8">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/rainbow-six-siege-error-code-10-0x00000000/" class="post-title post-url">
+Rainbow Six Siege Error Code 10-0x00000000 [Solved] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T15:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+Many gamers complain about the annoying Rainbow Six Siege error code 10-0x00000000. Once we realized that there&hellip; </div>
+</div>
+</article >
+<article class="post-39821 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-8">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/rog-ally-not-detecting-sd-card/" class="post-title post-url">
+ROG Ally Not Detecting SD Card: How to Make It Work </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T14:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+If you are struggling with the ROG Ally not detecting SD card issue, you might think that you are doomed and that&hellip; </div>
+</div>
+</article >
+<article class="post-39816 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-8">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/rog-ally-left-bumper-not-working/" class="post-title post-url">
+ROG Ally Left Bumper Not Working: How to Fix It Quickly </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T13:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+ROG Ally left bumper not working problem will make the console much less functional and the overall experience&hellip; </div>
+</div>
+</article >
+<article class="post-39809 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-8">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/games-crashing-on-rog-ally/" class="post-title post-url">
+Games Crashing on ROG Ally? Here Are the Best Fixes! </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T12:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+Are you disappointed that games crashing on ROG Ally makes your handheld console useless? If so, we invite you to&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div>
+</div></div></div><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-4"><div class="bs-vc-wrapper wpb_wrapper"><div class="vc_empty_space" style="height: 11px"><span class="vc_empty_space_inner"></span></div><div class=" bs-listing bs-listing-listing-mix-3-3 bs-listing-single-tab"> <h3 class="section-heading sh-t2 sh-s1 main-term-9">
+<a href="https://gameserrors.com/category/games-guides/" class="main-link">
+<span class="h-text main-term-9">
+Guides </span>
+</a>
+</h3>
+<div class="listing listing-mix-3-3 clearfix l-1-col">
+<div class="item-inner">
+<div class="row-1">
+<div class="listing listing-grid-1 clearfix columns-1">
+<article class="post-37799 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-9">
+<div class="item-inner">
+<div class="featured clearfix">
+<a alt="best Dave the Diver Tips for beginners" title="Dave the Diver Tips for Beginners: Guide for the New Gamers" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured-750x430.jpg" class="img-holder perfmatters-lazy" href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured-357x210.jpg"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" class="post-title post-url">
+Dave the Diver Tips for Beginners: Guide for the New Gamers </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T16:17:54+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+If you are looking for the most effective Dave the Diver tips for beginners, you are at the right place. This&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+<div class="row-2">
+<div class="listing listing-text listing-text-2 clearfix columns-2">
+<article class="post-37719 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-9">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/how-to-catch-tuna-in-dave-the-diver/" class="post-title post-url">
+How To Catch Tuna in Dave The Diver [Easy Guide] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T16:17:20+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+This indie game, Dave The Diver by MINTROCKET, is a delightful gem. Dave The Diver was released on 28 June for PC,&hellip; </div>
+</div>
+</article >
+<article class="post-40015 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-9">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/how-to-perform-a-clean-boot/" class="post-title post-url">
+How to Perform a Clean Boot to Fix Various Game Problems </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T15:34:11+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+You can fix numerous gaming issues by clean-booting Windows as covered below. </div>
+</div>
+</article >
+<article class="post-38538 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-9">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/game-crashes-when-streaming-on-discord/" class="post-title post-url">
+Games Crashing When Streaming on Discord: 5 Easy Tips to Fix </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-12T14:00:00+03:00">Jul 12, 2023</time></span>
+</div>
+<div class="post-summary">
+You might be able to fix games crashing when streaming on Discord by applying the potential resolutions in this&hellip; </div>
+</div>
+</article >
+<article class="post-37017 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-9">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/best-vpn-diablo-4/" class="post-title post-url">
+Best VPN for Diablo 4: Top 7 Gaming-Optimized Picks </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-11T14:16:14+03:00">Jul 11, 2023</time></span>
+</div>
+<div class="post-summary">
+Finding the best VPN Diablo 4 is difficult, as many service providers promise a lot and often don't deliver a&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div>
+</div></div></div><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-4"><div class="bs-vc-wrapper wpb_wrapper"><div class="vc_empty_space" style="height: 11px"><span class="vc_empty_space_inner"></span></div><div class=" bs-listing bs-listing-listing-mix-3-3 bs-listing-single-tab"> <h3 class="section-heading sh-t2 sh-s1 main-term-1810">
+<a href="https://gameserrors.com/category/stats-research/" class="main-link">
+<span class="h-text main-term-1810">
+Stats &amp; Research </span>
+</a>
+</h3>
+<div class="listing listing-mix-3-3 clearfix l-1-col">
+<div class="item-inner">
+<div class="row-1">
+<div class="listing listing-grid-1 clearfix columns-1">
+<article class="post-29998 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-1810">
+<div class="item-inner">
+<div class="featured clearfix">
+<a alt="Apex Legends vs. Fortnite: Unveiling the Battle for Player Engagement, Popularity" title="Apex Legends vs. Fortnite: Assessing Popularity in 2023" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/06/Apex-Legends-vs-Fortnite-featured-750x430.jpg" class="img-holder perfmatters-lazy" href="https://gameserrors.com/apex-legends-vs-fortnite/" data-bg="https://gameserrors.com/wp-content/uploads/2023/06/Apex-Legends-vs-Fortnite-featured-357x210.jpg"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/apex-legends-vs-fortnite/" class="post-title post-url">
+Apex Legends vs. Fortnite: Assessing Popularity in 2023 </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-13T10:56:05+03:00">Jul 13, 2023</time></span>
+</div>
+<div class="post-summary">
+Apex Legends vs Fortnite. Which one is more popular and better? This question can arise in your mind. But, without&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+<div class="row-2">
+<div class="listing listing-text listing-text-2 clearfix columns-2">
+<article class="post-34130 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-1810">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/gaming-vs-movie-industry-revenue/" class="post-title post-url">
+Gaming vs. Movie Industry Revenue: Striking Revenue Gap Revealed </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-06-16T10:53:20+03:00">Jun 16, 2023</time></span>
+</div>
+<div class="post-summary">
+Many believe that Gaming and Esports industry has taken a hard hit as the offices reopened after COVID-19, and the&hellip; </div>
+</div>
+</article >
+<article class="post-26084 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-1810">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/diablo-4-bugs-glitches/" class="post-title post-url">
+Diablo 4 Bugs &#038; Glitches That Creeped the Beta Version </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-06-06T11:32:33+03:00">Jun 6, 2023</time></span>
+</div>
+<div class="post-summary">
+Are you a die-hard fan of the Diablo series, eagerly waiting for the release of Diablo 4? Well, it's finally going&hellip; </div>
+</div>
+</article >
+<article class="post-3497 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-1810">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/virtual-reality-the-future-of-the-gaming-industry/" class="post-title post-url">
+Virtual Reality: The Future of the Gaming Industry? </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-05-11T11:58:03+03:00">May 11, 2023</time></span>
+</div>
+<div class="post-summary">
+There is no doubt that virtual reality is the foundation of the future gaming industry. Now, let's discover all&hellip; </div>
+</div>
+</article >
+<article class="post-26113 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-2 main-term-1810">
+<div class="item-inner">
+<h2 class="title"> <a href="https://gameserrors.com/why-is-zelda-tears-of-the-kingdom-so-hyped-10-million-pre-orders-already/" class="post-title post-url">
+Why is Zelda Tears of the Kingdom so Hyped? 10 million Pre-Orders&hellip; </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-05-10T17:47:46+03:00">May 10, 2023</time></span>
+</div>
+<div class="post-summary">
+Mythology has always been a fascinating subject for people all over the world. It is a study of the stories,&hellip; </div>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="row vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12"><div class="bs-vc-wrapper wpb_wrapper"><div class=" bs-listing bs-listing-listing-blog-1 bs-listing-single-tab pagination-animate"> <h3 class="section-heading sh-t2 sh-s1 main-term-8">
+<a href="https://gameserrors.com/category/games-fixes/" class="main-link">
+<span class="h-text main-term-8">
+Latest </span>
+</a>
+</h3>
+<div class="bs-pagination-wrapper main-term-8 more_btn bs-slider-first-item">
+<div class="listing listing-blog listing-blog-1 clearfix columns-1 columns-1">
+<article class="post-37901 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a title="League of Legends Critical Update Required [SOLVED]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/league-of-legends-critical-update-required/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/FIX-CRASHING-ISSUES-2023-07-06T064420.682-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/league-of-legends-critical-update-required/" class="post-url post-title">
+League of Legends Critical Update Required [SOLVED] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-18T10:21:51+03:00">Jul 18, 2023</time></span>
+</div>
+<div class="post-summary">
+League of Legends is one of the biggest multiplayer battle arena games for Windows. It's a great game, but it can sometimes convey a critical message. For example, many players encounter the League of Legends critical update required&hellip; </div>
+</div>
+</article>
+<article class="post-37799 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-9 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="best Dave the Diver Tips for beginners" title="Dave the Diver Tips for Beginners: Guide for the New Gamers" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured-279x220.jpg" class="img-holder perfmatters-lazy" href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/dave-the-diver-tips-for-beginners-featured-210x136.jpg"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/dave-the-diver-tips-for-beginners/" class="post-url post-title">
+Dave the Diver Tips for Beginners: Guide for the New Gamers </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T16:17:54+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+
+If you are looking for the most effective Dave the Diver tips for beginners, you are at the right place. This article will help you get started with this new adventure RPG game properly.
+
+After getting released, this casual single-player&hellip; </div>
+</div>
+</article>
+<article class="post-37719 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-9 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="Dave The Diver Tuna Featured Image" title="How To Catch Tuna in Dave The Diver [Easy Guide]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/Dave-The-Diver-Tuna-Featured-Image-279x220.jpg" class="img-holder perfmatters-lazy" href="https://gameserrors.com/how-to-catch-tuna-in-dave-the-diver/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/Dave-The-Diver-Tuna-Featured-Image-210x136.jpg"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/how-to-catch-tuna-in-dave-the-diver/" class="post-url post-title">
+How To Catch Tuna in Dave The Diver [Easy Guide] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T16:17:20+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+This indie game, Dave The Diver by MINTROCKET, is a delightful gem. Dave The Diver was released on 28 June for PC, and you can find it on Steam. Video game visionaries crafted Dave the Diver with a pure love of fun. It seamlessly blends&hellip; </div>
+</div>
+</article>
+<article class="post-40015 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-9 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a title="How to Perform a Clean Boot to Fix Various Game Problems" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/best-steam-deck-games-min-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/how-to-perform-a-clean-boot/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/best-steam-deck-games-min-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/how-to-perform-a-clean-boot/" class="post-url post-title">
+How to Perform a Clean Boot to Fix Various Game Problems </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T15:34:11+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+You can fix numerous gaming issues by clean-booting Windows as covered below. </div>
+</div>
+</article>
+<article class="post-39774 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="rainbow six siege error code 10-0x00000000" title="Rainbow Six Siege Error Code 10-0x00000000 [Solved]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/rainbow-six-siege-error-code-10-0x00000000-1-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/rainbow-six-siege-error-code-10-0x00000000/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/rainbow-six-siege-error-code-10-0x00000000-1-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/rainbow-six-siege-error-code-10-0x00000000/" class="post-url post-title">
+Rainbow Six Siege Error Code 10-0x00000000 [Solved] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T15:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+Many gamers complain about the annoying Rainbow Six Siege error code 10-0x00000000. Once we realized that there are many ways out there that can help you get rid of it, we decided to create an ultimate list of causes and solutions for&hellip; </div>
+</div>
+</article>
+<article class="post-39821 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="rog ally not detecting sd card" title="ROG Ally Not Detecting SD Card: How to Make It Work" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/rog-ally-not-detecting-sd-card-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/rog-ally-not-detecting-sd-card/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/rog-ally-not-detecting-sd-card-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/rog-ally-not-detecting-sd-card/" class="post-url post-title">
+ROG Ally Not Detecting SD Card: How to Make It Work </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T14:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+If you are struggling with the ROG Ally not detecting SD card issue, you might think that you are doomed and that there is absolutely nothing you can do about it. You are wrong! A few methods will make an SD card work on your console if&hellip; </div>
+</div>
+</article>
+<article class="post-39816 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="ROG Ally left bumper not working" title="ROG Ally Left Bumper Not Working: How to Fix It Quickly" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/rog-ally-left-bumper-not-working-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/rog-ally-left-bumper-not-working/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/rog-ally-left-bumper-not-working-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/rog-ally-left-bumper-not-working/" class="post-url post-title">
+ROG Ally Left Bumper Not Working: How to Fix It Quickly </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T13:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+ROG Ally left bumper not working problem will make the console much less functional and the overall experience terrible. The obvious thing to do is to contact the shop from where you purchased your console, but before doing so, you can try&hellip; </div>
+</div>
+</article>
+<article class="post-39809 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="games crashing on ROG Ally" title="Games Crashing on ROG Ally? Here Are the Best Fixes!" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/games-crashing-on-rog-ally-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/games-crashing-on-rog-ally/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/games-crashing-on-rog-ally-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/games-crashing-on-rog-ally/" class="post-url post-title">
+Games Crashing on ROG Ally? Here Are the Best Fixes! </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T12:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+
+Are you disappointed that games crashing on ROG Ally makes your handheld console useless? If so, we invite you to dive deep with us as we explore potential causes and pair them with solutions to bring stability back to games on ROG Ally.
+&hellip; </div>
+</div>
+</article>
+<article class="post-39812 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="Cloud recovery stuck on the checking rog ally" title="ROG Ally Cloud Recovery Stuck on the Checking [Quick Fix]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/Cloud-recovery-stuck-on-the-checking-rog-ally-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/rog-ally-cloud-recovery-stuck-on-the-checking/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/Cloud-recovery-stuck-on-the-checking-rog-ally-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/rog-ally-cloud-recovery-stuck-on-the-checking/" class="post-url post-title">
+ROG Ally Cloud Recovery Stuck on the Checking [Quick Fix] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T11:30:00+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+
+Booting your handheld console only to see ROG Ally Cloud Recovery stuck on the checking will cause frustration. Regardless if the problem occurred from nowhere or you tried to upgrade the console's memory, we have a way to resolve it!
+
+&hellip; </div>
+</div>
+</article>
+<article class="post-39806 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-8 bsw-12 ">
+<div class="item-inner clearfix">
+<div class="featured clearfix">
+<a alt="Cloud Recovery Server Authentication Failed ROG Ally" title="Cloud Recovery Server Authentication Failed ROG Ally [Fixed]" style data-bsrjs="https://gameserrors.com/wp-content/uploads/2023/07/Cloud-Recovery-Server-Authentication-Failed-rog-ally-279x220.png" class="img-holder perfmatters-lazy" href="https://gameserrors.com/cloud-recovery-server-authentication-failed-rog-ally/" data-bg="https://gameserrors.com/wp-content/uploads/2023/07/Cloud-Recovery-Server-Authentication-Failed-rog-ally-210x136.png"></a>
+</div>
+<h2 class="title"> <a href="https://gameserrors.com/cloud-recovery-server-authentication-failed-rog-ally/" class="post-url post-title">
+Cloud Recovery Server Authentication Failed ROG Ally [Fixed] </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2023-07-17T10:21:44+03:00">Jul 17, 2023</time></span>
+</div>
+<div class="post-summary">
+Starting your console only to see that Cloud Recovery Server Authentication Failed ROG Ally problem appeared is not the definition of quality gaming. We are here, determined to help you resolve this annoying network-related issue on your&hellip; </div>
+</div>
+</article>
+</div>
+</div><div class="bs-pagination bs-ajax-pagination more_btn main-term-8 clearfix">
+<script type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">var bs_ajax_paginate_6239512 = '{"query":{"category":"-1520,8,7,9,1215,1208,1519,1577,10","tag":"","taxonomy":"","post_ids":"","post_type":"","count":"10","order_by":"date","order":"DESC","time_filter":"","offset":"","style":"listing-blog-1","show_excerpt":"1","cats-tags-condition":"and","cats-condition":"in","tags-condition":"in","featured_image":"0","ignore_sticky_posts":"1","author_ids":"","disable_duplicate":"0","ad-active":"0","ad-after_each":"","ad-type":"","ad-banner":"none","ad-campaign":"none","ad-count":"","ad-columns":"1","ad-orderby":"date","ad-order":"ASC","ad-align":"left","paginate":"more_btn","pagination-show-label":"0","columns":"1","listing-settings":{"title-limit":"300","excerpt-limit":"240","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","format-icon":"0","term-badge":"0","term-badge-count":"1","term-badge-tax":"category","meta":{"show":"1","author":"0","date":"on","date-format":"standard","view":"0","share":"0","comment":"0","review":"0"}},"override-listing-settings":"1","_layout":{"state":"1|1|0","page":"1-col"}},"type":"bs_post_listing","view":"Publisher_Blog_Listing_1_Shortcode","current_page":1,"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","remove_duplicates":"0","query-main-term":"8","columns":"1","show_excerpt":"1","pagination-show-label":"0","paginate":"more_btn","override-listing-settings":"1","listing-settings":{"title-limit":"300","excerpt-limit":"240","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","format-icon":"0","term-badge":"0","term-badge-count":"1","term-badge-tax":"category","meta":{"show":"1","author":"0","date":"on","date-format":"standard","view":"0","share":"0","comment":"0","review":"0"}},"ad-active":"0","ad-after_each":"","ad-type":"","ad-banner":"none","ad-campaign":"none","ad-count":"","ad-columns":"1","ad-orderby":"date","ad-order":"ASC","ad-align":"left","_layout":{"state":"1|1|0","page":"1-col"},"_bs_pagin_token":"2f6feeb"}';</script> <a rel="next" class="btn-bs-pagination" data-id="6239512" title="Load More Posts">
+<span class="loading" style="display: none;">
+<i class="fa fa-refresh fa-spin fa-fw"></i>
+</span>
+<span class="loading" style="display: none;">
+Loading ... </span>
+<span class="loaded txt">
+Load More Posts </span>
+<span class="loaded icon">
+<i class="fa fa-angle-down" aria-hidden="true"></i>
+</span>
+<span class="no-more" style="display: none;">
+No More Posts
+</span>
+</a>
+</div></div></div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12"><div class="bs-vc-wrapper wpb_wrapper"><div class="vc_empty_space" style="height: 44px"><span class="vc_empty_space_inner"></span></div></div></div></div></div>
+</div>
+</div>
+</div>
+</main>
+<footer id="site-footer" class="site-footer full-width">
+<div class="copy-footer">
+<div class="content-wrap">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div id="menu-footer" class="menu footer-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="footer-menu-container">
+<ul id="footer-navigation" class="footer-menu menu clearfix">
+<li id="menu-item-6498" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-6498"><a href="https://gameserrors.com/about/">About Us</a></li>
+<li id="menu-item-2382" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-2382"><a href="https://gameserrors.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2383" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-2383"><a href="https://gameserrors.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-2381" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-2381"><a href="https://gameserrors.com/contact/">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="row footer-copy-row">
+<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+© 2023 Games Errors - All Rights Reserved. </div>
+<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<a href="https://gameserrors.com/"><img data-perfmatters-preload src="https://gameserrors.com/wp-content/uploads/2017/02/LogoHeader.png" height="30%" width="30%"></a> </div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+<script type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56016668-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script type="text/html" id="wpb-modifications"></script><script id="publisher-theme-pagination-js-extra" type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+</script>
+<script id="publisher-js-extra" type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-6","boxed":"full-width"},"ajax_url":"https:\/\/gameserrors.com\/wordpress\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"All","tabs_more":"More","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":false,"position":""},"share":{"more":true},"refresh_googletagads":"1","get_locale":"en-US","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/gameserrors.com\/wordpress\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"ajax-posts-column\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Posts<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categories<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n","full_width":"0"};
+</script>
+<div class="rh-cover noscroll gr-5">
+<span class="rh-close"></span>
+<div class="rh-panel rh-pm">
+<div class="rh-p-h">
+<span class="user-login">
+<span class="user-avatar user-avatar-icon"><i class="fa fa-user-circle"></i></span>
+Sign in </span> </div>
+<div class="rh-p-b">
+<div class="rh-c-m clearfix"></div>
+<form role="search" method="get" class="search-form" action="https://gameserrors.com">
+<input type="search" class="search-field" placeholder="Search..." value name="s" title="Search for:" autocomplete="off">
+<input type="submit" class="search-submit" value="">
+</form>
+<div class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href="https://www.facebook.com/gameserrors" target="_blank"> <i class="item-icon bsfi-facebook"></i><span class="item-title"> Likes </span> </a> </li> <li class="social-item twitter"><a href="https://twitter.com/gameserrors" target="_blank"> <i class="item-icon bsfi-twitter"></i><span class="item-title"> Followers </span> </a> </li> <li class="social-item youtube"><a href="https://youtube.com/channel/UCSqRTYdEs6HD-lVWKvbHYMA" target="_blank"> <i class="item-icon bsfi-youtube"></i><span class="item-title"> Subscribers </span> </a> </li> <li class="social-item instagram"><a href="https://instagram.com/gameserrors" target="_blank"> <i class="item-icon bsfi-instagram"></i><span class="item-title"> Followers </span> </a> </li> </ul>
+</div>
+</div>
+</div>
+<div class="rh-panel rh-p-u">
+<div class="rh-p-h">
+<span class="rh-back-menu"><i></i></span>
+</div>
+<div class="rh-p-b">
+<div id="form_31782_" class="bs-shortcode bs-login-shortcode ">
+<div class="bs-login bs-type-login" style="display:none">
+<div class="bs-login-panel bs-login-sign-panel bs-current-login-panel">
+<form name="loginform" action="https://gameserrors.com/srorresemag/" method="post">
+<div class="login-header">
+<span class="login-icon fa fa-user-circle main-color"></span>
+<p>Welcome, Login to your account.</p>
+</div>
+<div class="login-field login-username">
+<input type="text" name="log" id="form_31782_user_login" class="input" value size="20" placeholder="Username or Email..." required />
+</div>
+<div class="login-field login-password">
+<input type="password" name="pwd" id="form_31782_user_pass" class="input" value size="20" placeholder="Password..." required />
+</div>
+<div class="login-field">
+<a href="https://gameserrors.com/srorresemag/?action=lostpassword&redirect_to=https%3A%2F%2Fgameserrors.com%2F" class="go-reset-panel">Forget password?</a>
+<span class="login-remember">
+<input class="remember-checkbox" name="rememberme" type="checkbox" id="form_31782_rememberme" value="forever" />
+<label class="remember-label">Remember me</label>
+</span>
+</div>
+<div class="login-field login-submit">
+<input type="submit" name="wp-submit" class="button-primary login-btn" value="Log In" />
+<input type="hidden" name="redirect_to" value="https://gameserrors.com/" />
+</div>
+</form>
+</div>
+<div class="bs-login-panel bs-login-reset-panel">
+<span class="go-login-panel"><i class="fa fa-angle-left"></i> Sign in</span>
+<div class="bs-login-reset-panel-inner">
+<div class="login-header">
+<span class="login-icon fa fa-support"></span>
+<p>Recover your password.</p>
+<p>A password will be e-mailed to you.</p>
+</div>
+<form name="lostpasswordform" id="form_31782_lostpasswordform" action="https://gameserrors.com/srorresemag/?action=lostpassword" method="post">
+<div class="login-field reset-username">
+<input type="text" name="user_login" class="input" value placeholder="Username or Email..." required />
+</div>
+<div class="login-field reset-submit">
+<input type="hidden" name="redirect_to" value />
+<input type="submit" name="wp-submit" class="login-btn" value="Send My Password" />
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="pmdelayedscript" src="https://gameserrors.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" id="contact-form-7-js-extra" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/gameserrors.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="text/javascript" id="perfmatters-lazy-load-js-before">
+window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"0px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;var target=document.querySelector("body");var observer=new MutationObserver(function(mutations){lazyLoadInstance.update()});var config={childList:!0,subtree:!0};observer.observe(target,config);});function perfmattersLazyLoadYouTube(e){var t=document.createElement("iframe"),r="ID?";r+=0===e.dataset.query.length?"":e.dataset.query+"&",r+="autoplay=1",t.setAttribute("src",r.replace("ID",e.dataset.src)),t.setAttribute("frameborder","0"),t.setAttribute("allowfullscreen","1"),t.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),e.replaceChild(t,e.firstChild)}
+</script>
+<script type="text/javascript" async src="https://gameserrors.com/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.0.3" id="perfmatters-lazy-load-js"></script>
+<script type="pmdelayedscript" src="https://www.google.com/recaptcha/api.js?render=6LfZGN0UAAAAAPk6CJle-HFDnB7w6wbW0LVZ2zzw&#038;ver=3.0" id="google-recaptcha-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wordpress/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" id="wpcf7-recaptcha-js-extra" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LfZGN0UAAAAAPk6CJle-HFDnB7w6wbW0LVZ2zzw","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7" id="wpcf7-recaptcha-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" src="https://gameserrors.com/wp-content/plugins/perfmatters/vendor/instant-page/instantpage.js?ver=2.0.3" id="perfmatters-instant-page-js" data-perfmatters-type="text/javascript" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" src="https://gameserrors.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0" id="wpb_composer_front_js-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" async="async" src="https://gameserrors.com/wp-content/bs-booster-cache/37cf9ae6bb9436d91a4a383565ccb0b1.js?ver=6.2" id="bs-booster-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="text/javascript" id="perfmatters-delayed-scripts-js">const pmDelayClick=true;const pmDelayTimer=setTimeout(pmTriggerDOMListener,10*1000);const pmUserInteractions=["keydown","mousedown","mousemove","wheel","touchmove","touchstart","touchend"],pmDelayedScripts={normal:[],defer:[],async:[]},jQueriesArray=[],pmInterceptedClicks=[];var pmDOMLoaded=!1,pmClickTarget="";function pmTriggerDOMListener(){"undefined"!=typeof pmDelayTimer&&clearTimeout(pmDelayTimer),pmUserInteractions.forEach(function(e){window.removeEventListener(e,pmTriggerDOMListener,{passive:!0})}),document.removeEventListener("visibilitychange",pmTriggerDOMListener),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",pmTriggerDelayedScripts):pmTriggerDelayedScripts()}async function pmTriggerDelayedScripts(){pmDelayEventListeners(),pmDelayJQueryReady(),pmProcessDocumentWrite(),pmSortDelayedScripts(),pmPreloadDelayedScripts(),await pmLoadDelayedScripts(pmDelayedScripts.normal),await pmLoadDelayedScripts(pmDelayedScripts.defer),await pmLoadDelayedScripts(pmDelayedScripts.async),await pmTriggerEventListeners(),document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))}),window.dispatchEvent(new Event("perfmatters-allScriptsLoaded")),pmReplayClicks()}function pmDelayEventListeners(){let e={};function t(t,r){function n(r){return e[t].delayedEvents.indexOf(r)>=0?"perfmatters-"+r:r}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},delayedEvents:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)}),e[t].delayedEvents.push(r)}function r(e,t){let r=e[t];Object.defineProperty(e,t,{get:r||function(){},set:function(r){e["perfmatters"+t]=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),r(document,"onreadystatechange"),r(window,"onload"),r(window,"onpageshow")}function pmDelayJQueryReady(){let e=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>e,set(t){if(t&&t.fn&&!jQueriesArray.includes(t)){t.fn.ready=t.fn.init.prototype.ready=function(e){pmDOMLoaded?e.bind(document)(t):document.addEventListener("perfmatters-DOMContentLoaded",function(){e.bind(document)(t)})};let r=t.fn.on;t.fn.on=t.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e=(e=(e=e.split(" ")).map(function(e){return"load"===e||0===e.indexOf("load.")?"perfmatters-jquery-load":e})).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(function(t){delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]})}return r.apply(this,arguments),this},jQueriesArray.push(t)}e=t}})}function pmProcessDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){var r=document.currentScript,n=document.createRange();let a=e.get(r);void 0===a&&(a=r.nextSibling,e.set(r,a));var i=document.createDocumentFragment();n.setStart(i,0),i.appendChild(n.createContextualFragment(t)),r.parentElement.insertBefore(i,a)}}function pmSortDelayedScripts(){document.querySelectorAll("script[type=pmdelayedscript]").forEach(function(e){e.hasAttribute("src")?e.hasAttribute("defer")&&!1!==e.defer?pmDelayedScripts.defer.push(e):e.hasAttribute("async")&&!1!==e.async?pmDelayedScripts.async.push(e):pmDelayedScripts.normal.push(e):pmDelayedScripts.normal.push(e)})}function pmPreloadDelayedScripts(){var e=document.createDocumentFragment();[...pmDelayedScripts.normal,...pmDelayedScripts.defer,...pmDelayedScripts.async].forEach(function(t){var r=t.getAttribute("src");if(r){var n=document.createElement("link");n.href=r,n.rel="preload",n.as="script",e.appendChild(n)}}),document.head.appendChild(e)}async function pmLoadDelayedScripts(e){var t=e.shift();return t?(await pmReplaceScript(t),pmLoadDelayedScripts(e)):Promise.resolve()}async function pmReplaceScript(e){return await pmNextFrame(),new Promise(function(t){let r=document.createElement("script");[...e.attributes].forEach(function(e){let t=e.nodeName;"type"!==t&&("data-type"===t&&(t="type"),r.setAttribute(t,e.nodeValue))}),e.hasAttribute("src")?(r.addEventListener("load",t),r.addEventListener("error",t)):(r.text=e.text,t()),e.parentNode.replaceChild(r,e)})}async function pmTriggerEventListeners(){pmDOMLoaded=!0,await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-readystatechange")),await pmNextFrame(),document.perfmattersonreadystatechange&&document.perfmattersonreadystatechange(),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-load")),await pmNextFrame(),window.perfmattersonload&&window.perfmattersonload(),await pmNextFrame(),jQueriesArray.forEach(function(e){e(window).trigger("perfmatters-jquery-load")});let e=new Event("perfmatters-pageshow");e.persisted=window.pmPersisted,window.dispatchEvent(e),await pmNextFrame(),window.perfmattersonpageshow&&window.perfmattersonpageshow({persisted:window.pmPersisted})}async function pmNextFrame(){return new Promise(function(e){requestAnimationFrame(e)})}function pmClickHandler(e){e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick"),pmInterceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}function pmReplayClicks(){window.removeEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.removeEventListener("mousedown",pmTouchStartHandler),pmInterceptedClicks.forEach(e=>{e.target.outerHTML===pmClickTarget&&e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}function pmTouchStartHandler(e){"HTML"!==e.target.tagName&&(pmClickTarget||(pmClickTarget=e.target.outerHTML),window.addEventListener("touchend",pmTouchEndHandler),window.addEventListener("mouseup",pmTouchEndHandler),window.addEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.addEventListener("mousemove",pmTouchMoveHandler),e.target.addEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"onclick","pm-onclick"))}function pmTouchMoveHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler),e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick")}function pmTouchEndHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler)}function pmRenameDOMAttribute(e,t,r){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(r,event.target.getAttribute(t)),event.target.removeAttribute(t))}window.addEventListener("pageshow",e=>{window.pmPersisted=e.persisted}),pmUserInteractions.forEach(function(e){window.addEventListener(e,pmTriggerDOMListener,{passive:!0})}),pmDelayClick&&(window.addEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.addEventListener("mousedown",pmTouchStartHandler)),document.addEventListener("visibilitychange",pmTriggerDOMListener);</script></body>
+</html>
